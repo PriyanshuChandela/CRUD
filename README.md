@@ -1,2 +1,2 @@
 # CRUD
-This is a srud appplication using react js and node js concepts 
+This is a crud appplication using react js and node js concepts 
